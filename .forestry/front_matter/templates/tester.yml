@@ -1,0 +1,10 @@
+---
+label: Tester
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: testing
+  label: Testing
+  description: test
+  default: testttststststst
