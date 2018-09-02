@@ -8,3 +8,5 @@ fields:
   label: Testing
   description: test
   default: testttststststst
+pages:
+- asdf.md
