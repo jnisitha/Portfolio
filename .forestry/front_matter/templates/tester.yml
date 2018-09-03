@@ -2,6 +2,8 @@
 label: Projects
 hide_body: false
 is_partial: false
+title: Homepage
+menus: header
 fields:
 - type: text
   name: project_name
