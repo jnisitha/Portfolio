@@ -26,5 +26,3 @@ fields:
   label: Project End Date
   config:
     date_format: MM/DD/YYYY
-pages:
-- asdf.md
