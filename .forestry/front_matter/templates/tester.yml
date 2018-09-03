@@ -4,9 +4,11 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: testing
-  label: Testing
-  description: test
-  default: testttststststst
+  name: project_name
+  label: Project Name
+  description: ''
+  config:
+    required: true
+  default: Project Ipsum
 pages:
 - asdf.md
