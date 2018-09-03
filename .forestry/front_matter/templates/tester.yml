@@ -10,5 +10,21 @@ fields:
   config:
     required: true
   default: Project Ipsum
+- type: textarea
+  name: project_description
+  label: Project Description
+  description: What the project is about.
+  config:
+    required: true
+- type: datetime
+  name: project_start_date
+  label: Project Start Date
+  config:
+    date_format: MM/DD/YYYY
+- type: datetime
+  name: project_end_date
+  label: Project End Date
+  config:
+    date_format: MM/DD/YYYY
 pages:
 - asdf.md
