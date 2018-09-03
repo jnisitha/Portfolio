@@ -26,3 +26,8 @@ fields:
   label: Project End Date
   config:
     date_format: MM/DD/YYYY
+- type: file
+  name: project_image
+  label: Project Image
+  config:
+    maxSize: '20'
