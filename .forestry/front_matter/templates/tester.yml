@@ -32,4 +32,5 @@ fields:
   config:
     maxSize: '20'
 pages:
+- _posts/same-some-project.md
 - some-project.md
