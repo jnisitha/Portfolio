@@ -9,6 +9,5 @@ all_projects:
 - "/uploads/capstone.png"
 - "/uploads/machining.png"
 resume: "/uploads/Mechanical Resume.pdf"
-published: false
 
 ---
