@@ -31,3 +31,5 @@ fields:
   label: Project Image
   config:
     maxSize: '20'
+pages:
+- _posts/first-mech-post.md
