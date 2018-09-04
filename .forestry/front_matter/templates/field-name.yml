@@ -1,0 +1,20 @@
+---
+label: Field name
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: Name
+  label: Name of field
+  name: name_of_field
+  description: gaming, mechanical, computer, etc.
+  config:
+    required: true
+- type: image_gallery
+  name: all_projects
+  label: All projects
+  description: pictures of all projects
+- type: file
+  name: resume
+  label: Resume
+  description: resume of related field
