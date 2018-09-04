@@ -8,6 +8,6 @@ all_projects:
 - "/uploads/robosub2.png"
 - "/uploads/capstone.png"
 - "/uploads/machining.png"
-resume: "/uploads/Mechanical Resume.pdf"
+resume: "/uploads/Mechanical Resume-1.pdf"
 
 ---
