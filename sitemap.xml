@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/jekyll/update/2018/08/31/welcome-to-jekyll.html</loc>
+<lastmod>2018-08-31T12:29:40-04:00</lastmod>
+</url>
+<url>
+<loc>/2018/09/04/first-mech-post.html</loc>
+<lastmod>2018-09-04T09:21:53-04:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/mechanical.html</loc>
+</url>
+<url>
+<loc>/software.html</loc>
+</url>
+<url>
+<loc>/uploads/Mechanical%20Resume.pdf</loc>
+<lastmod>2018-09-03T21:35:11-04:00</lastmod>
+</url>
+<url>
+<loc>/uploads/My%20Resume.pdf</loc>
+<lastmod>2018-09-04T09:14:23-04:00</lastmod>
+</url>
+</urlset>
