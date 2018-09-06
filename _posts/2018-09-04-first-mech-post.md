@@ -1,5 +1,6 @@
 ---
 title: First Mech post
+menus: header
 project_name: Project Submarine
 date: 2018-09-04 09:21:53 -0400
 project_description: Launched a submarine
