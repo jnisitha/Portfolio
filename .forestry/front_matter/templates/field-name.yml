@@ -18,6 +18,3 @@ fields:
   name: resume
   label: Resume
   description: resume of related field
-pages:
-- software.md
-- mechanical.md
