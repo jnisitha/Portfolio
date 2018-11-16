@@ -9,12 +9,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /uploads/chillin.jpg
-  cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  cta_label: "About me"
+  cta_url: "/about/"
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Hi! I am a software engineer and this is my portfolio. Please enjoy your stay here and don't hesitate to contact me if you see something interesting."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'After getting a BASc from university of Toronto, I am now exploring the fields listed below. Click on one to discover more' # Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
