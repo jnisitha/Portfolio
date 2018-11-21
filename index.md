@@ -15,11 +15,14 @@ header:
 excerpt: "Hi! I am a software engineer and this is my portfolio. Please enjoy your stay here and don't hesitate to contact me if you see something interesting."
 intro: 
   - excerpt: 'After getting a BASc from university of Toronto, I am now exploring the fields listed below. Click on one to discover more' # Centered with `type="center"`'
+
 feature_row:
+#3D Printer
   - image_path: /uploads/printer2.png
     alt: "Printer"
     title: "Designing a 3D printer"
     excerpt: "Designed a 3D printer"
+#Capstone
   - image_path: /uploads/capstone.png
     image_caption: "Capstone"
     alt: "Capstone Design"
@@ -28,14 +31,17 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+#CAD Engine
   - image_path: /uploads/engine2.png
     title: "CAD modeled an Engine"
     excerpt: "CAD modelled an engine using solidworks"
+
 feature_row2:
+#MIsjAM
   - image_path: /uploads/MisJam1.PNG
     alt: "Misjam"
     title: "MisJam 2018"
-    excerpt: 'Game made by 3 developers at the 2018 Mississauga game jam'
+    excerpt: 'Game made by 3 developers at the 2018 Mississauga game jam. It's filled with tension. An act of balancing defying gravity and invisible wind forces.'
     url: "https://en-jay.itch.io/misjam-2018"
     btn_label: "Play Game" #Maybe remove the button
     btn_class: "btn--primary"
@@ -43,15 +49,15 @@ feature_row3:
   - image_path: /uploads/LevelDesign3.PNG
     alt: "LevelDesign"
     title: "Experimental Game"
-    excerpt: 'Experimental sandbox area'
+    excerpt: 'Experimental sandbox area. good for a calming, relaxing, meditative walkaround in the rain.'.
     url: "https://en-jay.itch.io/level-design"
     btn_label: "Play Game"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /uploads/thesis.png
     alt: "Thesis"
-    title: "Control of microbots via magnetic fields"
-    excerpt: 'Copy thesis description'
+    title: "Control of Micro-Bots via Magnetic Field Manipulation using a Vision Feedback Control System."
+    excerpt: 'Developed a theoretical model of the movement of the micro-bot. Designed a visual feedback control system and implemented it using an Arduino Mega 2560.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
