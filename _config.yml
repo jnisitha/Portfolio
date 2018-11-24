@@ -79,7 +79,7 @@ theme                  : "minimal-mistakes-jekyll"
 
 # remote_theme           : "mmistakes/minimal-mistakes"
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 
 
@@ -87,7 +87,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 locale                   : "en-US"
 
-title                    : "Portfolio"
+title                    : "Design Portfolio"
 
 title_separator          : "-"
 
@@ -95,11 +95,11 @@ name                     : "Nisitha Jayatilleka"
 
 description              : "An amazing website."
 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.nisitha.ca"
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jnisitha/Portfolio"
 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
@@ -255,13 +255,13 @@ analytics:
 
 author:
 
-  name             : "Your Name"
+  name             : "Nisitha Jayatilleka"
 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
 
   bio              : "I am an amazing person."
 
-  location         : "Somewhere"
+  location         : "Toronto"
 
   email            :
 
