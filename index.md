@@ -33,7 +33,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: /uploads/capstone.png
-    image_caption: "Capstone"
     alt: "Capstone Design"
     title: "Capstone Design U of T"
     excerpt: "Worked with bombardier to design a universal calibration block"
