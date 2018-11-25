@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/welcome-to-jekyll/</loc>
+<loc>https://www.nisitha.ca/jekyll/update/welcome-to-jekyll/</loc>
 <lastmod>2018-08-31T12:29:40-04:00</lastmod>
 </url>
 <url>
-<loc>/first-mech-post/</loc>
+<loc>https://www.nisitha.ca/first-mech-post/</loc>
 <lastmod>2018-09-04T09:21:53-04:00</lastmod>
 </url>
 <url>
-<loc>/404/</loc>
+<loc>https://www.nisitha.ca/404/</loc>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>https://www.nisitha.ca/about/</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://www.nisitha.ca/</loc>
 </url>
 <url>
-<loc>/uploads/Mechanical%20Resume.pdf</loc>
+<loc>https://www.nisitha.ca/uploads/Mechanical%20Resume.pdf</loc>
 <lastmod>2018-09-03T21:35:11-04:00</lastmod>
 </url>
 <url>
-<loc>/uploads/My%20Resume.pdf</loc>
+<loc>https://www.nisitha.ca/uploads/My%20Resume.pdf</loc>
 <lastmod>2018-09-04T09:14:23-04:00</lastmod>
 </url>
 </urlset>
