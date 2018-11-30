@@ -46,7 +46,7 @@ feature_row:
     alt: "Thesis"
     title: "Control of Micro-Bots via Magnetic Field Manipulation using a Vision Feedback Control System."
     excerpt: 'Developed a theoretical model of the movement of the micro-bot. Designed a visual feedback control system and implemented it using an Arduino Mega 2560.'
-    url: "/uploads/My Resume.pdf"
+    url: "/thesis/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   #Printer

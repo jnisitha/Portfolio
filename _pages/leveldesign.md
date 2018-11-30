@@ -9,7 +9,7 @@ Game development has always been an interesting field for me and for the past ye
 
 ![ld1](/uploads/LevelDesign1.jpg)
 
-Initially this was a simple 'test site' of sorts for a project I am currently working on. The 'level' featured here was a learning grounds for me and it contains several free to use textures and sound effects from other sources and creators, as well as assets and animations created by me.  Over time, it has become a place of relaxation for me just to listen to the sounds and walk around the level.
+Initially this was a simple 'test site' of sorts for a project I am currently working on. The 'level' featured here was a learning grounds for me and it contains several free textures and sound effects from other sources and creators, as well as assets and animations created by me.  Over time, it has become a place of relaxation for me just to listen to the sounds and walk around the level.
 
 ![ld2](/uploads/LevelDesign2.jpg)
 
