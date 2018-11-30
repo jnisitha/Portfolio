@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Level Design
-permalink: "leveldesign"
+permalink: "/leveldesign/"
 
 ---
 
