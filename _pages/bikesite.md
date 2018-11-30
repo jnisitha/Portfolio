@@ -13,6 +13,8 @@ The site was made using the MEAN stack with [Mongoose](https://mongoosejs.com/) 
 
 The website features a design which allows visitors to view various posts and comments easily and features authentication (implemented through Passport) allowing authenticated users to create posts as well as comment on existing posts.
 
-The front end is handled through bootstrap complimented by CSS and JS where needed to keep the UI simple but elegant.
+The front-end is handled through bootstrap complimented by CSS and JS where needed, to keep the UI simple but elegant.
 
 ![fullPost](/uploads/Bikesite2.jpg)
+
+Currently, the site is hosted on AWS (free tier) and new features are on the way! You can read more [here](https://github.com/jnisitha/BikeSite).
