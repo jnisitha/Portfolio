@@ -44,9 +44,17 @@ feature_row:
   #Thesis
   - image_path: /uploads/thesis.jpg
     alt: "Thesis"
-    title: "Control of Micro-Bots via Magnetic Field Manipulation using a Vision Feedback Control System."
-    excerpt: 'Developed a theoretical model of the movement of the micro-bot. Designed a visual feedback control system and implemented it using an Arduino Mega 2560.'
+    title: "Control of Micro-Bots using a Vision Feedback Control System."
+    excerpt: 'Fourth year thesis.'
     url: "/thesis/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  #Submarine
+  - image_path: /uploads/robosub2.jpg
+    alt: "Submarine"
+    title: "U of T MDA"
+    excerpt: "Mechanical Team Lead of U of T MDA."    
+    url: "/submarine/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   #Printer
