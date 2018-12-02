@@ -20,3 +20,5 @@ Initially this was a simple 'test site' of sorts for a project I am currently wo
  Currently, I am working on implementing dynamic music (composed by yours truly) using FMOD and implementing a 3rd person playable character with blend animations.
 
 ![ld4](/uploads/LevelDesign4.jpg)
+
+The game can be played [here](https://en-jay.itch.io/level-design)
