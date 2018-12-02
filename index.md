@@ -57,14 +57,6 @@ feature_row:
     url: "/submarine/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  #Printer
-  - image_path: /uploads/printer2.jpg
-    alt: "Printer"
-    title: "Designing a 3D printer"
-    excerpt: "Designed a 3D printer"    
-    url: "/printer/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   #Capstone
   - image_path: /uploads/capstone.jpg
     alt: "Capstone Design"
@@ -73,6 +65,14 @@ feature_row:
     url: "/capstone/"
     btn_label: "Read More"
     btn_class: "btn--primary"  
+  #Printer
+  - image_path: /uploads/printer2.jpg
+    alt: "Printer"
+    title: "Designing a 3D printer"
+    excerpt: "Designed a 3D printer"    
+    url: "/printer/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   #CAD Engine
   - image_path: /uploads/engine2.jpg
     title: "CAD modeled an Engine"
