@@ -21,7 +21,7 @@ feature_row:
   - image_path: /uploads/Bikesite.jpg
     alt: "bikesite"
     title: "Wheelsntrails Blog site"
-    excerpt: "A site for blogging about bike routes. Built from ground up on MEAN. Ongoing project." 
+    excerpt: "A site for blogging about bike routes. Built from ground up on MEAN. Ongoing project. Hosted on AWS using Docker" 
     url: "/bikesite/"
     btn_label: "Read More"
     btn_class: "btn--primary"
