@@ -9,8 +9,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /uploads/snowy1.jpg
-  cta_label: "About me"
-  cta_url: "/about/"
+  #cta_label: "About me"
+  #cta_url: "/about/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Hi! I am a software engineer and this is my portfolio. Please enjoy your stay here and don't hesitate to contact me if you see something interesting."
 intro: 
